@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{11DFCEA9-027E-D231-BEED-AB36306D835F}") = "Procedural Generation Playground", "Assembly-CSharp.csproj", "{A2E18E1F-EA54-04C8-D841-B20901C7E12A}"
+EndProject
+Project("{11DFCEA9-027E-D231-BEED-AB36306D835F}") = "Procedural Generation Playground", "Assembly-CSharp-Editor.csproj", "{D8ED296A-7E94-F52A-F0B5-734F5D6BC99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{A2E18E1F-EA54-04C8-D841-B20901C7E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E18E1F-EA54-04C8-D841-B20901C7E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E18E1F-EA54-04C8-D841-B20901C7E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E18E1F-EA54-04C8-D841-B20901C7E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ED296A-7E94-F52A-F0B5-734F5D6BC99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ED296A-7E94-F52A-F0B5-734F5D6BC99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ED296A-7E94-F52A-F0B5-734F5D6BC99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ED296A-7E94-F52A-F0B5-734F5D6BC99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
