@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3D62ED61-642E-0102-1815-5461D1819AD2}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapDisplay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Noise.cs" Line="23" Column="34" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
